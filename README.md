@@ -3,7 +3,8 @@
 **진행 기간**: 2023.4.10 ~ 2023.5.26
 
 ### 지도로 보여주는 나의 이야기 SNS 서비스
-
+## UCC 보기
+  https://www.youtube.com/watch?v=jH8wJT5uHD8
 ---
 
 ## 팀원 소개
