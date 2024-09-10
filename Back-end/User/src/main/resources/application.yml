@@ -11,9 +11,8 @@ spring:
   profiles:
     include: API-KEY
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: org.postgresql.Driver
     username: ${DB_USER}
-    #    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/areastory
     url: ${DB_URL}
     password: ${DB_PASSWORD}
   jpa:
@@ -37,10 +36,10 @@ spring:
 cloud:
   aws:
     s3:
-      bucket: ${BUCKET}
+      bucket: ${BUCKET_NAME}
     credentials:
-      access-key: ${ACCESS-KEY}
-      secret-key: ${SECRET-KEY}
+      access-key: ${AWS_ACCESS_KEY}
+      secret-key: ${AWS_SECRET_KEY}
     region:
       static: ap-northeast-2
     stack:

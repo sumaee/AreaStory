@@ -1,7 +1,7 @@
 package com.areastory.user.kafka;
 
 public interface KafkaProperties {
-    String KAFKA_URL = "k8a3021.p.ssafy.io:9092";
+    String KAFKA_URL = "host.docker.internal:9092";
     String TOPIC_NOTIFICATION = "notification";
     String TOPIC_ARTICLE = "server-article";
     String TOPIC_USER = "server-user";
