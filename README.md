@@ -22,9 +22,8 @@
 
 **Backend**
 
-- 언어: Java, SQL
-- 프레임워크: IntelliJ, MySQL
-  Java, Spring WebSocket, Spring Boot, Spring Data JPA, Gradle, IntelliJ IDEA, Redis, MySQL, OAuth 2.0 & Kakao Login
+- 언어: Java
+- 프레임워크: Spring Boot, Spring Data JPA, Spring Kafka
 
 **Server**
 
