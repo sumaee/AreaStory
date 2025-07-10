@@ -1,3 +1,7 @@
+# AreaStory 보완
+- Article : https://github.com/sumaee/Areastory_Article
+- Location : https://github.com/sumaee/Areastory_Location
+- 
 # AreaStory
 
 **진행 기간**: 2023.4.10 ~ 2023.5.26
